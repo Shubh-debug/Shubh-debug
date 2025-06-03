@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Agarwal</h1>
-<h3 align="center">🚀 Full-Stack Developer | 🎯 Problem Solver | 📚 Tech Enthusiast</h3>
+<h3 align="center">🚀 Backend Developer | 🎯 Problem Solver | 📚 Tech Enthusiast</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -9,57 +9,63 @@
   <img src="https://img.shields.io/github/stars/shubhamagarwal?style=social" />
 </p>
 
-- 🔭 I’m currently working on **a PHP-based task scheduler**
-- 🌱 I’m currently learning **Laravel & Machine Learning**
+- 🌱 I’m currently learning and working on **PHP & Laravel**
 - 🧠 Strengths: *Leadership*, *Adaptability*, *Curiosity*
-- 📫 Reach me at **shubhamagarwal@gmail.com**
-- 💼 Portfolio & CV: [Google Drive](https://drive.google.com/drive/folders/YOUR_FOLDER_ID)
-- 🛠️ All my projects: [GitHub Repositories](https://github.com/shubhamagarwal)
+- 📫 Reach me at **shubahm12345552@gmail.com**
+- 💼 Portfolio & CV: [Google Drive]([https://drive.google.com/drive/folders/YOUR_FOLDER_ID](https://drive.google.com/drive/folders/1ZDzS_Zf04sFhQlSXj05RuTiPGCEE1saR?usp=sharing))
+- 🛠️ All my projects: [GitHub Repositories](https://github.com/Shubh-debug)
 
 ---
 
 <h3 align="left">🌐 Connect with me</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shubhamagarwal" target="_blank">
+<a href="https://www.linkedin.com/in/shubhamagarwal08/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.hackerrank.com/shubhamagarwal" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
-</a>
-<a href="https://leetcode.com/shubhamagarwal" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-<a href="https://auth.geeksforgeeks.org/user/shubhamagarwal" target="_blank">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
 </p>
 
 ---
-
-<h3 align="left">💼 Featured Projects</h3>
-
-- 🗓️ **PHP Task Scheduler** — Local file-based task planner using CRON jobs and email reminders  
-  🔗 [View on GitHub](https://github.com/shubhamagarwal/task-scheduler)
-
-- 🎯 **Portfolio Website** — Responsive personal website using HTML/CSS and PHP backend  
-  🔗 [View on GitHub](https://github.com/shubhamagarwal/portfolio)
-
-- 🧠 **Laal Singh Chaddha – EQ Analysis** — Emotional Intelligence breakdown via film storytelling  
-  🔗 [Presentation Link](https://github.com/shubhamagarwal/eq-analysis)
-
----
-
-<h3 align="left">🧰 Languages & Tools</h3>
+<!-- Languages -->
+<h3>🛠️ Languages:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+</p>
+
+<!-- Backend Frameworks -->
+<h3>🧩 Backend & Frameworks:</h3>
+<p align="left">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+</p>
+
+<!-- Databases -->
+<h3>🗄️ Databases:</h3>
+<p align="left">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+<!-- Tools & Platforms -->
+<h3>🔧 Tools & Platforms:</h3>
+<p align="left">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lens%20Studio-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" />
 </p>
+
+<!-- Productivity & Collaboration -->
+<h3>🤝 Productivity & Collaboration:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+</p>
+
 
 ---
 
