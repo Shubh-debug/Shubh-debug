@@ -104,6 +104,3 @@
 ---
 
 <h3 align="center">✨ Thank you for visiting my profile!</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Let's+Build+Something+Great!;Keep+Learning.+Keep+Coding+💻;" alt="Typing SVG" />
-</p>
