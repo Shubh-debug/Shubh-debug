@@ -12,9 +12,13 @@
 - 🌱 I’m currently learning and working on **PHP & Laravel**
 - 🧠 Strengths: *Leadership*, *Adaptability*, *Curiosity*
 - 📫 Reach me at **shubahm12345552@gmail.com**
-- 💼 Portfolio & CV: [Google Drive]([https://drive.google.com/drive/folders/YOUR_FOLDER_ID](https://drive.google.com/drive/folders/1ZDzS_Zf04sFhQlSXj05RuTiPGCEE1saR?usp=sharing))
 - 🛠️ All my projects: [GitHub Repositories](https://github.com/Shubh-debug)
-
+<h3>📁 Portfolio & CV:</h3>
+<p align="left">
+  <a href="https://drive.google.com/drive/folders/1ZDzS_Zf04sFhQlSXj05RuTiPGCEE1saR?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio%20&%20CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Portfolio & CV" />
+  </a>
+</p>
 ---
 
 <h3 align="left">🌐 Connect with me</h3>
