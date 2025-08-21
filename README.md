@@ -1,50 +1,40 @@
-<h1 align="center">👋 Hi, I'm Shubham Agarwal</h1>
+<!-- HERO ─ Space Animated Banner -->
+<!-- HERO ─ Blackhole Banner with Name -->
+<div align="center" style="position: relative;">
+  <img src="https://i.gifer.com/7pA5.gif" alt="Blackhole Banner" width="100%" />
+  <h1 style="position: absolute; top: 40%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 42px; font-family: Orbitron, sans-serif;">
+    👋 Hi, I'm Shubham Agarwal
+  </h1>
+</div>
+
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=2600&pause=700&center=true&vCenter=true&width=900&lines=Backend+Developer;MERN+%7C+Laravel+%7C+Docker;Clean+APIs+%2F+Scalable+Systems;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3200&pause=700&center=true&vCenter=true&width=800&lines=Building+clean+APIs+and+scalable+systems;Cloud%2C+Docker%2C+DevOps+mindset;Open+Source+Contributor" />
 </p>
 
-<img align="right" alt="coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
----
+<!-- INTRO + AVATAR -->
+<table width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      
+### About Me
+- Building **MERN + Laravel** projects  
+- Strengths: `Leadership` · `Adaptability` · `Curiosity`  
+- Email: **shubahm12345552@gmail.com**  
+- Work: [github.com/Shubh-debug](https://github.com/Shubh-debug)
 
-### 🎯 About Me
-- 🌱 Building **MERN + Laravel** projects
-- 🧠 Strengths: `Leadership` · `Adaptability` · `Curiosity`
-- 📫 Email: **shubahm12345552@gmail.com**
-- 💻 Work: [github.com/Shubh-debug](https://github.com/Shubh-debug)
-
----
-
-### ⚡ Technical Skills
-
-#### 🧠 Languages
+### ⚡ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=java,php,javascript,typescript" />
+  <img src="https://skillicons.dev/icons?i=java,php,javascript,typescript,html,css,react,nodejs,express,nextjs,laravel,mysql,postgres,mongodb,docker,redis,postman,git,github,linux,vercel" />
 </p>
 
-#### 🎨 Front-end
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
-
-#### 🧩 Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,laravel" />
-</p>
-
-#### 🗃️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
-
-#### 🛠️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,redis,postman,git,github,linux,vercel" />
-</p>
-
+  </td>
+    <td width="40%" valign="top" align="center">
+      <img alt="unique-photo" src="https://github.com/user-attachments/assets/3379a6fd-4a7b-491e-908c-b45d919b599b" width="360"/>
+    </td>
+  </tr>
+</table>
 ---
 
 ### 🌐 Connect
@@ -81,10 +71,6 @@
   </a>
 </p>
 
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shubh-debug&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
-
-<h3 align="center">Thanks for visiting</h3>
