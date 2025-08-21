@@ -1,107 +1,90 @@
 <h1 align="center">👋 Hi, I'm Shubham Agarwal</h1>
-<h3 align="center">🚀 Backend Developer | 🎯 Problem Solver | 📚 Tech Enthusiast</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=2600&pause=700&center=true&vCenter=true&width=900&lines=Backend+Developer;MERN+%7C+Laravel+%7C+Docker;Clean+APIs+%2F+Scalable+Systems;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
+</p>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=shubhamagarwal&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamagarwal" /> 
-  <img src="https://img.shields.io/github/followers/shubhamagarwal?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/shubhamagarwal?style=social" />
+<img align="right" alt="coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+---
+
+### 🎯 About Me
+- 🌱 Building **MERN + Laravel** projects
+- 🧠 Strengths: `Leadership` · `Adaptability` · `Curiosity`
+- 📫 Email: **shubahm12345552@gmail.com**
+- 💻 Work: [github.com/Shubh-debug](https://github.com/Shubh-debug)
+
+---
+
+### ⚡ Technical Skills
+
+#### 🧠 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,php,javascript,typescript" />
+</p>
+
+#### 🎨 Front-end
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+#### 🧩 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,laravel" />
+</p>
+
+#### 🗃️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+#### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,redis,postman,git,github,linux,vercel" />
 </p>
 
 ---
 
-### 🎯 About Me:
-- 🌱 Currently learning and working on **PHP & Laravel**
-- 🧠 Strengths: `Leadership` | `Adaptability` | `Curiosity`
-- 📫 Reach me at: **shubahm12345552@gmail.com**
-- 💻 All my projects: [GitHub Repositories](https://github.com/Shubh-debug)
+### 🌐 Connect
+<p>
+  <a href="https://www.linkedin.com/in/shubhamagarwal08/"><img src="https://img.icons8.com/color/48/linkedin.png" width="40"/></a>
+  <a href="mailto:shubahm12345552@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/></a>
+</p>
 
 ---
 
-### 🗂️ Portfolio & CV:
-<p align="left">
-  <a href="https://drive.google.com/drive/folders/1ZDzS_Zf04sFhQlSXj05RuTiPGCEE1saR?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20Portfolio%20&%20CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Portfolio & CV" />
+### 📊 GitHub Analytics
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shubh-debug&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh-debug&layout=compact&theme=tokyonight" />
+</p>
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=Shubh-debug&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shubh-debug&theme=tokyonight&margin-w=15&margin-h=15" />
+</p>
+
+### 🌀 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubh-debug&bg_color=0f172a&color=38bdf8&line=38bdf8&point=38bdf8&area=true&hide_border=true" />
+</p>
+
+---
+
+### 🔗 Portfolio & CV
+<p>
+  <a href="https://drive.google.com/file/d/1YNJV7DgvTNF4CStCeFHzKzY1lBPuO5o0/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Portfolio%20%26%20CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🌐 Connect with Me:
-<p align="left">
-<a href="https://www.linkedin.com/in/shubhamagarwal08/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-</p>
-
----
-
-### 🧠 Languages:
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-</p>
-
----
-
-### 🧩 Backend & Frameworks:
-<p align="left">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-</p>
-
----
-
-### 🗃️ Databases:
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
----
-
-### 🛠️ Tools & Platforms:
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lens%20Studio-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" />
-</p>
-
----
-
-### 🤝 Productivity & Collaboration:
-<p align="left">
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
-</p>
-
----
-
-### 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shubhamagarwal&theme=tokyonight&row=2&column=3" />
+  <img src="https://komarev.com/ghpvc/?username=Shubh-debug&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
----
-
-### 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamagarwal&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamagarwal&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamagarwal" alt="GitHub Streak" />
-</p>
-
----
-
-<h3 align="center">✨ Thank you for visiting my profile!</h3>
+<h3 align="center">Thanks for visiting</h3>
