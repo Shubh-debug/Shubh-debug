@@ -1,17 +1,16 @@
 <!-- HERO ─ Space Animated Banner -->
-<!-- HERO ─ Blackhole Banner with Name -->
-<div align="center" style="position: relative;">
-  <img src="https://i.gifer.com/7pA5.gif" alt="Blackhole Banner" width="100%" />
-  <h1 style="position: absolute; top: 40%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 42px; font-family: Orbitron, sans-serif;">
-    👋 Hi, I'm Shubham Agarwal
-  </h1>
-</div>
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3200&pause=700&center=true&vCenter=true&width=800&lines=Building+clean+APIs+and+scalable+systems;Cloud%2C+Docker%2C+DevOps+mindset;Open+Source+Contributor" />
+  <img src="https://github.com/user-attachments/assets/07fea472-25f8-4831-ab12-8b89a57e1f58" alt="Blackhole Banner" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3200&pause=700&center=true&vCenter=true&width=900&lines=Backend+Developer;DevOps+mindset;Open+Source+Contributor" />
+</p>
+
+<!-- DIVIDER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider">
+</p>
 
 <!-- INTRO + AVATAR -->
 <table width="100%">
@@ -35,42 +34,70 @@
     </td>
   </tr>
 </table>
----
 
-### 🌐 Connect
-<p>
-  <a href="https://www.linkedin.com/in/shubhamagarwal08/"><img src="https://img.icons8.com/color/48/linkedin.png" width="40"/></a>
-  <a href="mailto:shubahm12345552@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/></a>
+<!-- DIVIDER -->
+<p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider"> 
 </p>
-
----
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shubh-debug&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh-debug&layout=compact&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shubh-debug&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh-debug&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=Shubh-debug&theme=tokyonight" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Shubh-debug&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shubh-debug&theme=tokyonight&margin-w=15&margin-h=15" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Shubh-debug&theme=onedark&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=6" 
+    alt="GitHub Trophies" />
+</p>
+
+<!-- DIVIDER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider">
 </p>
 
 ### 🌀 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubh-debug&bg_color=0f172a&color=38bdf8&line=38bdf8&point=38bdf8&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubh-debug&bg_color=0f172a&color=38bdf8&line=38bdf8&point=38bdf8&area=true&hide_border=true" alt="Activity Graph"/>
 </p>
 
----
+<!-- DIVIDER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider">
+</p>
 
+<!-- FINAL SECTION: Connect + CV -->
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      
+### 🌐 Connect with Me
+<p>
+  <a href="https://www.linkedin.com/in/shubhamagarwal08/"><img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/></a>
+  <a href="mailto:shubahm12345552@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Email"/></a>
+</p>
+
+  </td>
+    <td width="50%" align="center">
+      
 ### 🔗 Portfolio & CV
 <p>
   <a href="https://drive.google.com/file/d/1YNJV7DgvTNF4CStCeFHzKzY1lBPuO5o0/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Portfolio%20%26%20CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
+    <img src="https://img.shields.io/badge/View%20Portfolio%20%26%20CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Portfolio & CV"/>
   </a>
 </p>
 
+  </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shubh-debug&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Shubh-debug&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
+
+<!-- BOTTOM DIVIDER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/demo/wave.svg" width="100%" alt="divider">
 </p>
