@@ -97,7 +97,7 @@
   <img src="https://komarev.com/ghpvc/?username=Shubh-debug&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
-<!-- BOTTOM DIVIDER -->
+<!-- DIVIDER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/demo/wave.svg" width="100%" alt="divider">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider">
 </p>
