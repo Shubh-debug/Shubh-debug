@@ -44,14 +44,14 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shubh-debug&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh-debug&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
-<p align="center">
+<!-- <p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=Shubh-debug&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 <p align="center">
   <img 
     src="https://github-profile-trophy.vercel.app/?username=Shubh-debug&theme=onedark&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=6" 
     alt="GitHub Trophies" />
-</p>
+</p> -->
 
 <!-- DIVIDER -->
 <p align="center">
